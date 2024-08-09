@@ -5,6 +5,6 @@ export default defineConfig({
     setupNodeEvents(on, config) {
       // Implement node event listeners here
     },
-    baseUrl: 'https://demoblaze.com', // Replace with your test URL
+    baseUrl: 'https://demoblaze.com',
   },
 });
